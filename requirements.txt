@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+requests
+openpyxl
+beautifulsoup4
+lxml
+yfinance
+scikit-learn
+sketch
