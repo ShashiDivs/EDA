@@ -7,6 +7,8 @@ requests
 openpyxl
 beautifulsoup4
 lxml
-yfinance
 scikit-learn
-sketch
+sqlalchemy
+PyMySQL
+mysql-connector-python
+secure-smtplib
