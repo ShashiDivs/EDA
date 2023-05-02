@@ -12,3 +12,4 @@ sqlalchemy
 PyMySQL
 mysql-connector-python
 secure-smtplib
+Jinja2
